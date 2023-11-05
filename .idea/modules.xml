@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/../UUZOP-Projekt-zvone/.idea/Projekt.iml" filepath="$PROJECT_DIR$/../UUZOP-Projekt-zvone/.idea/Projekt.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../auditorne/.idea/auditorne.iml" filepath="$PROJECT_DIR$/../auditorne/.idea/auditorne.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/march_madness_project.iml" filepath="$PROJECT_DIR$/.idea/march_madness_project.iml" />
+    </modules>
+  </component>
+</project>
